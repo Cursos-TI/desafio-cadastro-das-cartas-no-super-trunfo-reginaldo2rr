@@ -8,8 +8,17 @@
 
 int main() {
 
-    int populacao, nropturistico;
-    float area, pib;
+    int populacao; //Variavel tipo inteiro recebe valor da população
+    int nropturistico; //Variavel tipo inteiro recebe o valor Número ponto turistico.
+    float area; //Variavel tipo decimal recebe o valor a área da cidade.
+    float pib;// Variavel tipo decimal recebe o valor do PIB da cidade.
+
+    printf ("**Jogo de Cartas Super Trunfo**\n\n");
+
+    printf ("Digite o valor da População:");
+
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
